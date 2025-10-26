@@ -4,11 +4,16 @@ An interactive Flutter application that visualizes heap data structure operation
 
 ## Features
 
-- Visual representation of Min and Max Heaps
+- Visual representation of Min and Max Heaps with an interactive diagram
 - Interactive insertion and removal of elements
 - Step-by-step visualization of heap operations
 - Toggle between Min Heap and Max Heap
 - Clean and intuitive user interface
+
+## Visual Example
+
+![Heap Diagram](assets/heap_diagram.png)
+_Example of the heap visualization in action_
 
 ## Getting Started
 
@@ -67,4 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with Flutter
 - Inspired by classic computer science data structure visualizations
+
 # flutter-heap-demo
